@@ -12,7 +12,7 @@ Esta aplicación permite mostrar una lista de elementos y agregar nuevos element
 1. Clona el repositorio o descarga el código fuente.
 2. Navega al directorio del proyecto:
    ```bash
-   cd "DynamicoreReactNative"
+   cd DynamicoreReactNative
    ```
 3. Instala las dependencias:
    ```bash
